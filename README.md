@@ -132,3 +132,6 @@ It highlights the importance of data cleaning, structured querying, and visualiz
 ## 📎 Note
 
 Screenshots of SQL outputs and dashboard visuals are included for better understanding and validation of results.
+
+Author 
+Pratham Bang
